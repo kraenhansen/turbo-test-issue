@@ -1,0 +1,14 @@
+{
+  "name": "turbo-test",
+  "scripts": {
+    "test": "turbo run build --dry-run"
+  },
+  "devDependencies": {
+    "turbo": "^1.2.5"
+  },
+  "workspaces": [
+    "test",
+    "tests",
+    "works"
+  ]
+}

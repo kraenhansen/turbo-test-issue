@@ -1,0 +1,6 @@
+{
+  "name": "works",
+  "scripts": {
+    "build": "echo building 'works'"
+  }
+}
