@@ -1,5 +1,5 @@
 # turbo-test-issue
-A reproduction of https://github.com/vercel/turborepo/issues/1140
+A reproduction of https://github.com/vercel/turborepo/issues/1143
 
 Simply install and run the root `test` script:
 
